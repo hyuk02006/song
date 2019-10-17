@@ -1,0 +1,12 @@
+C:\Users\sexy KimDonggyu\source\WinForm\1016\1016\bin\Debug\1016.exe.config
+C:\Users\sexy KimDonggyu\source\WinForm\1016\1016\bin\Debug\1016.exe
+C:\Users\sexy KimDonggyu\source\WinForm\1016\1016\bin\Debug\1016.pdb
+C:\Users\sexy KimDonggyu\source\WinForm\1016\1016\obj\Debug\1016.csprojAssemblyReference.cache
+C:\Users\sexy KimDonggyu\source\WinForm\1016\1016\obj\Debug\_1016.Form1.resources
+C:\Users\sexy KimDonggyu\source\WinForm\1016\1016\obj\Debug\_1016.Properties.Resources.resources
+C:\Users\sexy KimDonggyu\source\WinForm\1016\1016\obj\Debug\1016.csproj.GenerateResource.cache
+C:\Users\sexy KimDonggyu\source\WinForm\1016\1016\obj\Debug\1016.csproj.CoreCompileInputs.cache
+C:\Users\sexy KimDonggyu\source\WinForm\1016\1016\obj\Debug\1016.exe
+C:\Users\sexy KimDonggyu\source\WinForm\1016\1016\obj\Debug\1016.pdb
+C:\Users\sexy KimDonggyu\source\WinForm\1016\1016\obj\Debug\_1016.ServerInfo.resources
+C:\Users\sexy KimDonggyu\source\WinForm\1016\1016\obj\Debug\_1016.Sign.resources
