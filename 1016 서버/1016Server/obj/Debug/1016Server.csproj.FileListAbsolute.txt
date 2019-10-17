@@ -1,0 +1,20 @@
+D:\고급30기\08_Network\sample\1016Server\1016Server\bin\Debug\1016Server.exe.config
+D:\고급30기\08_Network\sample\1016Server\1016Server\bin\Debug\1016Server.exe
+D:\고급30기\08_Network\sample\1016Server\1016Server\bin\Debug\1016Server.pdb
+D:\고급30기\08_Network\sample\1016Server\1016Server\obj\Debug\_1016Server.Form1.resources
+D:\고급30기\08_Network\sample\1016Server\1016Server\obj\Debug\_1016Server.Properties.Resources.resources
+D:\고급30기\08_Network\sample\1016Server\1016Server\obj\Debug\_1016Server.ServerInfo.resources
+D:\고급30기\08_Network\sample\1016Server\1016Server\obj\Debug\1016Server.csproj.GenerateResource.Cache
+D:\고급30기\08_Network\sample\1016Server\1016Server\obj\Debug\1016Server.exe
+D:\고급30기\08_Network\sample\1016Server\1016Server\obj\Debug\1016Server.pdb
+C:\Users\sexy KimDonggyu\Documents\카카오톡 받은 파일\1016Server (3)\1016Server\bin\Debug\1016Server.exe.config
+C:\Users\sexy KimDonggyu\Documents\카카오톡 받은 파일\1016Server (3)\1016Server\bin\Debug\1016Server.exe
+C:\Users\sexy KimDonggyu\Documents\카카오톡 받은 파일\1016Server (3)\1016Server\bin\Debug\1016Server.pdb
+C:\Users\sexy KimDonggyu\Documents\카카오톡 받은 파일\1016Server (3)\1016Server\obj\Debug\1016Server.csprojAssemblyReference.cache
+C:\Users\sexy KimDonggyu\Documents\카카오톡 받은 파일\1016Server (3)\1016Server\obj\Debug\_1016Server.Form1.resources
+C:\Users\sexy KimDonggyu\Documents\카카오톡 받은 파일\1016Server (3)\1016Server\obj\Debug\_1016Server.Properties.Resources.resources
+C:\Users\sexy KimDonggyu\Documents\카카오톡 받은 파일\1016Server (3)\1016Server\obj\Debug\_1016Server.ServerInfo.resources
+C:\Users\sexy KimDonggyu\Documents\카카오톡 받은 파일\1016Server (3)\1016Server\obj\Debug\1016Server.csproj.GenerateResource.cache
+C:\Users\sexy KimDonggyu\Documents\카카오톡 받은 파일\1016Server (3)\1016Server\obj\Debug\1016Server.csproj.CoreCompileInputs.cache
+C:\Users\sexy KimDonggyu\Documents\카카오톡 받은 파일\1016Server (3)\1016Server\obj\Debug\1016Server.exe
+C:\Users\sexy KimDonggyu\Documents\카카오톡 받은 파일\1016Server (3)\1016Server\obj\Debug\1016Server.pdb
