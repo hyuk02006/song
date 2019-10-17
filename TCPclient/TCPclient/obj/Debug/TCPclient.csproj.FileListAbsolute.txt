@@ -1,0 +1,12 @@
+C:\Users\Student\source\repos\TCPclient\TCPclient\obj\Debug\TCPclient.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\TCPclient\TCPclient\obj\Debug\TCPclient.Form1.resources
+C:\Users\Student\source\repos\TCPclient\TCPclient\obj\Debug\TCPclient.Properties.Resources.resources
+C:\Users\Student\source\repos\TCPclient\TCPclient\obj\Debug\TCPclient.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\TCPclient\TCPclient\obj\Debug\TCPclient.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\TCPclient\TCPclient\bin\Debug\TCPclient.exe.config
+C:\Users\Student\source\repos\TCPclient\TCPclient\bin\Debug\TCPclient.exe
+C:\Users\Student\source\repos\TCPclient\TCPclient\bin\Debug\TCPclient.pdb
+C:\Users\Student\source\repos\TCPclient\TCPclient\obj\Debug\TCPclient.exe
+C:\Users\Student\source\repos\TCPclient\TCPclient\obj\Debug\TCPclient.pdb
+C:\Users\Student\source\repos\TCPclient\TCPclient\obj\Debug\TCPclient.Form2.resources
+C:\Users\Student\source\repos\TCPclient\TCPclient\obj\Debug\TCPclient.Form3.resources
